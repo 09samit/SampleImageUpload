@@ -1,0 +1,6 @@
+framework module Pods_SampleImageUploadTests {
+  umbrella header "Pods-SampleImageUploadTests-umbrella.h"
+
+  export *
+  module * { export * }
+}

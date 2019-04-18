@@ -14,9 +14,9 @@
             buildForAnalyzing = "YES">
             <BuildableReference
                BuildableIdentifier = "primary"
-               BlueprintIdentifier = "5D8415A7461E5D0E4139A81F2E26CF4E"
-               BuildableName = "Pods_SampleImageUploadTests.framework"
-               BlueprintName = "Pods-SampleImageUploadTests"
+               BlueprintIdentifier = "6C20B8EAB552F6254D360746A9E56D3E"
+               BuildableName = "Pods_SampleImageUpload.framework"
+               BlueprintName = "Pods-SampleImageUpload"
                ReferencedContainer = "container:Pods.xcodeproj">
             </BuildableReference>
          </BuildActionEntry>
@@ -45,9 +45,9 @@
       <MacroExpansion>
          <BuildableReference
             BuildableIdentifier = "primary"
-            BlueprintIdentifier = "5D8415A7461E5D0E4139A81F2E26CF4E"
-            BuildableName = "Pods_SampleImageUploadTests.framework"
-            BlueprintName = "Pods-SampleImageUploadTests"
+            BlueprintIdentifier = "6C20B8EAB552F6254D360746A9E56D3E"
+            BuildableName = "Pods_SampleImageUpload.framework"
+            BlueprintName = "Pods-SampleImageUpload"
             ReferencedContainer = "container:Pods.xcodeproj">
          </BuildableReference>
       </MacroExpansion>
